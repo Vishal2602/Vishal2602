@@ -25,7 +25,7 @@ I am a **Founding Full Stack Engineer** who bridges the gap between complex AI o
 
 Currently, I am simulating a software agency run entirely by **9 AI Agents** while simultaneously building production SaaS platforms for humans. I prioritize clear architecture, readable code, and tests that actually reflect how the product is used.
 
-* 🔭 **I’m currently building:** A fully autonomous [AI Dev Shop](https://github.com/YOUR_USERNAME/ai-dev-shop) and [AlgentProp](https://algentprop.com).
+* 🔭 **I’m currently building:** A fully autonomous [AI Dev Shop](https://github.com/vishal2602/ai-dev-shop) and [AlgentProp](https://aigentprop.com).
 * 🧠 **I’m researching:** Multi-agent collaboration (n8n + Claude Code) and RL-based prompt optimization.
 * ⚡ **Fun fact:** My AI agents have their own Slack channel where they argue about database schemas.
 
