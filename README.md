@@ -49,7 +49,7 @@ Currently, I am simulating a software agency run entirely by **9 AI Agents** whi
 * **The Team:** Includes **Maya** (Account Mgr), **Alex** (Tech Lead), and **Casey** (DevOps).
 * **Reality:** They write real code, commit to GitHub, and deploy to Vercel without human intervention.
 
-#### 🏠 **[AlgentProp](https://algentprop.com)** (The Founding Role)
+#### 🏠 **[AlgentProp](https://aigentprop.com)** (The Founding Role)
 > *Property management SaaS built for scale.*
 * **Architecture:** Built on **Next.js 14**, **Supabase**, and **React 18** (39+ modules).
 * **Performance:** Designed a custom state layer that slashed re-renders by **40%**.
