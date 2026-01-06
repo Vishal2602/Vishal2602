@@ -43,31 +43,22 @@ Currently, I am simulating a software agency run entirely by **9 AI Agents** whi
 
 ### 🧪 Featured Experiments
 
-#### 🤖 **[AI Dev Shop](https://github.com/YOUR_USERNAME/ai-dev-shop)** (The Mad Science Project)
+#### **[AI Dev Shop](https://github.com/YOUR_USERNAME/ai-dev-shop)** (The Mad Science Project)
 > *A fully autonomous software development company run by AI agents.*
 * **Orchestration:** Uses **n8n** as a nervous system to trigger **Claude Code** agents via SSH.
 * **The Team:** Includes **Maya** (Account Mgr), **Alex** (Tech Lead), and **Casey** (DevOps).
 * **Reality:** They write real code, commit to GitHub, and deploy to Vercel without human intervention.
 
-#### 🏠 **[AlgentProp](https://www.aigentprop.ai/)** (The Founding Role)
+#### **[AlgentProp](https://www.aigentprop.ai/)** (The Founding Role)
 > *Property management SaaS built for scale.*
 * **Architecture:** Built on **Next.js 14**, **Supabase**, and **React 18** (39+ modules).
 * **Performance:** Designed a custom state layer that slashed re-renders by **40%**.
 * **AI Feature:** Implemented LangChain-powered lead prescreening to automate tenant reviews.
 
-#### 🏎️ **[F1 Monk](https://designport.netlify.app)** (The UX Case Study)
+#### **[F1 Monk](https://designport.netlify.app)** (The UX Case Study)
 > *iOS Assistant for International Student Visa Compliance.*
 * **Impact:** Adopted by 50+ students; achieved a **95% user satisfaction rating**.
 * **Tech:** Integrated **Google Cloud Dialogflow** and **Grok API** for natural language queries.
-
-<br/>
-
-### 📊 Lab Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishal2602&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishal2602&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="languages graph"  />
-</div>
 
 <br/>
 
